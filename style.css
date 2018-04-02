@@ -1,0 +1,187 @@
+
+
+body {
+    margin:0;
+    padding: 0% 0% 0% 0%;
+}   
+header {
+    color: orange;
+    margin:0;
+    padding: 0px 10px 0px 400px;
+    font-size: 26;
+    height:54px;
+    background-color: #484645;
+}
+.border {
+    margin:0;
+    background-color: #EC6C09;
+    height:5px;
+}
+.home {
+    margin:0;
+    background-color: red;
+    
+    font-size: 30;
+    text-decoration: none;
+    display: inline;
+    color: white;
+    padding: 0px 4px 0px 12px;
+    list-style-type: none;
+    float:left;
+    
+}
+.aboutus:hover {
+    
+    text-decoration: none;
+    color:white;
+    background: blue;
+    float:left;
+   
+}
+nav ul li {
+    margin:0;
+    text-decoration: none;
+    list-style-type: none;
+    color: white;
+    padding:0px 0px 0px 0px;
+    float:left;
+    font-size: 30;
+    
+    display: inline;
+    
+}
+.new {
+    margin:0;
+    background-color: orange;
+    padding:0px 0px 0px 0px;
+    font-size: 30;
+    text-decoration: none;
+    list-style-type: none;
+    float:left;
+    
+    width:100%;
+    height:34px;
+}
+nav ul {
+    margin:0;
+    text-decoration: none;
+    list-style-type: none;
+    
+    
+}
+.aboutus {
+    text-decoration: none;
+    color:white;
+    padding:0px 10px 0px 10px;
+    background: orange;
+    margin-left:10px;
+     list-style-type: none;
+     display: inline-block;
+}
+.gallery:hover {
+    text-decoration: none;
+    color:white;
+    background: blue;
+    float:left;
+    
+}
+.gallery {
+    text-decoration: none;
+    list-style-type: none;
+    background-color: orange;
+    color:white;
+    padding:0px 10px 0px 10px;
+    
+}
+.whatsnew {
+    text-decoration: none;
+    list-style-type: none;
+    background-color: orange;
+    color:white;
+    padding:0px 10px 0px 10px;
+}
+.whatsnew:hover {
+     text-decoration: none;
+    color:white;
+    background: blue;
+    float:left;
+}
+.contact {
+   text-decoration: none;
+    list-style-type: none;
+    background-color: orange;
+    color:white;
+    padding:0px 10px 0px 10px; 
+}
+.contact:hover {
+    text-decoration: none;
+    color:white;
+    background: blue;
+    float:left;
+}
+.image1 {
+    background-image: url(image3.jpg);
+    width:100%;
+    height:100%;
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+.contactimage {
+  
+  text-decoration: none;
+  width:100%;
+  height:100%;
+  background-repeat:no-repeat;
+  background-size: cover;
+  margin:0;
+  color:black;
+  
+  
+}
+.niteshimg{
+  margin:0%;
+  padding: 8% 0% 0% 2%;
+  float:left;
+  text-decoration: none;
+}
+.niteshinfo {
+  margin:0%;
+  padding:8% 0% 0% 3%;
+  float:left;
+  text-decoration: none;
+}
+.rahulimg {
+  margin:0%;
+ margin-top: 4%;
+ margin-left:2%;
+ margin-right:92%;
+ display: inline;
+  float:left;
+  text-decoration: none;
+  
+  
+ 
+}
+.rahulinfo {
+ margin:0;
+ margin-top: -12%;
+ float:left;
+ margin-left:18%;
+list-style-type: none;
+ color:black;
+
+ 
+}
+.vinodimg {
+ margin:0;
+ margin-top:4%;
+ margin-left:2%;
+ float:left;
+}
+.vinodinfo {
+ margin:0%;
+ float:left;
+ margin-top: 4%;
+ margin-left:4%;
+}
+
